@@ -33,7 +33,7 @@
 	<title>Status - <?php echo $name ?></title>
 	<link rel="icon" type="image/png" href="<?php echo $logo ?>" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-0c38nfCMzF8w8DBI+9nTWzApOpr1z0WuyswL4y6x/2ZTtmj/Ki5TedKeUcFusC/k" crossorigin="anonymous">
-	<meta name="theme-color" content="#084793">
+	<meta name="theme-color" content="<?php echo $colorhex ?>">
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:creator" content="@jekeltor" />
 	<meta property="og:url" content="https://gfnrp.us" />
